@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Apr 29 05:32:24 2025 
+Best design point: 1
+Design specs: 
+	digital_project:Inverter_TB:1	corner	Nominal - 
+Design parameters: 
+	Vin		1.2
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.0 completed. 
+Current time: Tue Apr 29 05:32:27 2025 
